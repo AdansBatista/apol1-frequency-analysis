@@ -1,7 +1,7 @@
 # APOL1 G1/G2 Frequency Analysis
 
-**Author:** Adans Schmidt Batista (Student ID: 3774163)  
-**Course:** BIOL625, Bioinformatics and Genomics (Rev. 1)  
+**Author:** Adans Schmidt Batista (Student ID: 3774163)\
+**Course:** BIOL625, Bioinformatics and Genomics (Rev. 1)\
 **Assignment:** Assignment 3, Final Project: Revised Submission
 
 This repository reproduces APOL1 G1 and G2 risk-allele frequencies from gnomAD v4,
@@ -74,4 +74,3 @@ averages. G1 ranges from 12.35% in MSL to 49.49% in ESN, while G2 ranges from
 
 These scripts are original project code prepared with disclosed large language model
 assistance. I reviewed, executed, and verified the code and its outputs.
-
